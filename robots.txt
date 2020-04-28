@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://spiraline.github.io/sitemap.xml
