@@ -90,17 +90,17 @@ layout: default
     <!-- end Education -->
     {% endif %}
 
-    <!-- begin Paper -->
+    <!-- begin Publications -->
     <section class="content-section">
       <header class="section-header">
-        <h2>Papers</h2>
+        <h2>Publications</h2>
       </header>
 
-      {% for paper in site.data.papers %}
+      {% for paper in site.data.publication %}
       <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
         <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
-        <h3 class="resume-item-title" itemprop="name">{% if paper.url %}<a href="{{ paper.url }}" itemprop="url">{{ paper.project }}</a>{% else %}{{ paper.project }}{% endif %}</h3>
-        <h4 class="resume-item-details" itemprop="description">{{ paper.role }}  &bull; {{ paper.duration }}</h4>
+        <h3 class="resume-item-title" itemprop="name">{{ paper.title }} {% if paper.url %}<a href="{{ paper.url }}" itemprop="url">[Ref]</a>{% endif %}</h3>
+        <h4 class="resume-item-details" itemprop="description">{{ paper.author }}  &bull; {{ paper.conference }}</h4>
         <p class="resume-item-copy">{{ paper.description }}</p>
       </div>
       {% endfor %}
