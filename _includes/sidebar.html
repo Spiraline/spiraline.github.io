@@ -9,7 +9,8 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
+    <a class="sidebar-nav-item" href="{{ '/' | absolute_url }}">Home</a>
+    <a class="sidebar-nav-item" href="{{ '/post/' | absolute_url }}">Posts</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -25,8 +26,8 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <!-- <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
+    <a class="sidebar-nav-item" href="{{ site.github_repo_url }}">GitHub repo</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
