@@ -2,7 +2,7 @@
 layout: post
 title:  "Windows 10 / Ubuntu 18.04 듀얼부팅 + CUDA 10.0 설치"
 date:   2020-04-28 14:35:14 +0900
-categories: develop
+category: develop
 ---
 
 GPU가 있는 데스크탑에 멀티부팅을 할 일이 생겨 시도하던 중 윈도우가 리눅스를 6번쯤 잡아먹고 겨우 해내고 나니 이 과정을 글로 남기지 않으면 너무 억울할 것 같아 이렇게 글로 남기게 되었다.  

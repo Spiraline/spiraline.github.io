@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://spiraline.github.io"
 github_username:  spiraline
 github_repo_url: "https://github.com/Spiraline"
-pages: about develop
+page_list: develop
 
 version: 1.2
 

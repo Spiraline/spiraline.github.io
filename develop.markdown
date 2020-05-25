@@ -1,6 +1,6 @@
 ---
 layout: categoryhome
 title: Develop
-categories: develop
+category: develop
 permalink: /develop/
 ---
