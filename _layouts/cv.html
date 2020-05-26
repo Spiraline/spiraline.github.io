@@ -76,13 +76,18 @@ layout: default
         <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
         <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
         <p class="resume-item-copy" itemprop="description">
-          <ul class="resume-item-list">
-            {% for award in education.awards %}
-            <li>{{ award.award }}</li>
+        {% if education.grades != null %}
+          <table align="center">
+            <th>Course Name</th>
+            <th>Grade</th>
+            {% for grade in education.grades %}
+            <tr align="center">
+              <td>{{ grade.name }}</td>
+              <td>{{ grade.grade }}</td>
+            </tr>
             {% endfor %}
-          </ul></h5>
-
-
+          </table>
+        {% endif %}
         <p class="resume-item-copy">{{ education.summary }}</p>
       </div>
       {% endfor %}

@@ -12,12 +12,12 @@ resume_title:                   "CS Researcher / Developer"
 resume_contact_email:           "spiraline@snu.ac.kr"
 
 resume_contact_telephone:       "010-5059-1638"
-resume_contact_address:         "125, Yangcheon-ro, Gangseo-gu, Seoul, Republic of Korea"
+resume_contact_address:         "Seoul, Republic of Korea"
 
-resume_header_contact_info:     "010-5059-9168 • spiraline@snu.ac.kr"
+resume_header_contact_info:     "010-5059-1638 • spiraline@snu.ac.kr"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm interested in automobile vehicle.</p>"
+resume_header_intro: "<p>Hi! I'm major in Computer Science in Seoul National University. I'm interested in real-time system.</p>"
 
 resume_looking_for_work:        "yes"
 

@@ -1,19 +1,30 @@
 # Jobs
-# VP of Global Communications
-- company: Real-time Ubiquitous System Lab
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# RUBIS Lab
+- company: Seoul National University<br/>
+            RUBIS(Real-time Ubiquitous System) Lab
+  position: Intern
+  duration: Apr, 2020 &mdash; Present
+  summary: I analyze autoware code and implenting code based on ROS.
+          <ul class="resume-item-list">
+            <li>Troubleshooting while running Autoware on TX2 Board</li>
+          </ul>
 
-# Director of Digital Stratgy
-- company: Software Platform Lab
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# SPL Lab
+- company: Seoul National University
+            <br/>SPL(Software Platform Lab) Lab
+  position: Intern
+  duration: Jan, 2020 &mdash; Feb, 2020
+  summary: TF Lite Model Optimization using TVM
 
-
-# Communications Coordinator
+# RideFlux
 - company: RideFlux
   position: Software Engineer
-  duration: Jan, 2019  &mdash; Feb, 2019, Jul, 2019  &mdash; Sep, 2019,
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  duration: Jan, 2019  &mdash; Feb, 2019 &bull; Jul, 2019  &mdash; Sep, 2019,
+  summary: I developed front-end using React and back-end using Django. And I implemented App using Unity.
+            I also exprienced ROS to visualize ROS message on Visualizer.
+           <ul class="resume-item-list">
+            <li>Developer Tool for simulating self-driving car based on web</li>
+            <li>Visualizer App for self-driving car passenger based on Unity</li>
+            <li>Automation script for visualizing profiled data based on web</li>
+          </ul>
+          

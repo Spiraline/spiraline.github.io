@@ -2,12 +2,34 @@
 - degree: Computer Science & Engineering
   uni: Seoul National University
   year: 2017 &mdash; Present
-  grades: A+
-  # awards:
-  #   - award: Summa Cumme Laude graduate
-  summary: hi
+  grades:
+    - name : Principles and Practices of Software Development
+      grade : A+
+    - name : Logic Design
+      grade : A+
+    - name : Computer Architecture
+      grade : A-
+    - name : Programming Language
+      grade : A0
+    - name : Data Structure
+      grade : A+
+    - name : Algorithm
+      grade : A+
+    - name : System Programming
+      grade : A0
+    - name : Hardware System Design
+      grade : A-
+    - name : Linear and Non-linear Computational Models
+      grade : A+
+    - name : Automata Theory
+      grade : A-
+    - name : Database
+      grade : A-
+    - name : Electrical and Electronic Circuits
+      grade : A-
+  summary: "GPA : 4.07 / Major GP : 4.01<br/>
+            I learned principal programming and computer system and experienced lot of programming language."
 
 - degree: High School Diploma
   uni: Daejeon Science High School
   year: 2014 &mdash; 2017
-  summary: hi
