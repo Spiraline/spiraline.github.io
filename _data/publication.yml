@@ -6,3 +6,10 @@
   year: 2015
   conference: Autumn Conference at KICS 2015
   url: "#"
+
+# KCC - ROS
+- title: A Precise module execution time measurement of ROS network
+  author: Jongwoo Han, Sehwan Lee, Seungsu Lee, Youngeun Cho, Chang-Gun Lee
+  year: 2020
+  conference: Korea Computer Congress 2020
+  url: "/assets/KCC2020.pdf"

@@ -19,3 +19,10 @@ plugins_dir:
 sass:
   sass_dir: _sass
   style: compressed
+
+# Image setting
+defaults:
+  - scope:
+      path: "assets"
+    values:
+      image: true
