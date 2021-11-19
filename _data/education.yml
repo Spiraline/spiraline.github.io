@@ -1,8 +1,18 @@
 # Degree
-- degree: Computer Science & Engineering
+- degree: M.S. in Computer Science & Engineering
   uni: Seoul National University
-  year: 2017 &mdash; Present
+  year: 2021 &mdash; Present
+  summary: "GPA : 4.3<br/>
+            "
+
+- degree: B.S. in Computer Science & Engineering
+  uni: Seoul National University
+  year: 2017 &mdash; 2021
   grades:
+    - name : Computer Modeling
+      grade : A+
+    - name : Operating System
+      grade : A0
     - name : Principles and Practices of Software Development
       grade : A+
     - name : Logic Design
@@ -27,7 +37,7 @@
       grade : A-
     - name : Electrical and Electronic Circuits
       grade : A-
-  summary: "GPA : 4.07 / Major GP : 4.01<br/>
+  summary: "GPA : 4.09 / Major GP : 4.02<br/>
             I learned principal programming and computer system and experienced a lot of programming language."
 
 - degree: High School Diploma
