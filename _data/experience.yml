@@ -2,8 +2,19 @@
 # RUBIS Lab
 - company: Seoul National University<br/>
             RUBIS(Real-time Ubiquitous System) Lab
+  position: Master Degree
+  duration: Mar, 2020 &mdash; Present
+  summary: 
+          <ul class="resume-item-list">
+            <li>DAG scheduling algorithm</li>
+            <li>Safety Guarunteeing Mechanism against physical error</li>
+          </ul>
+
+# RUBIS Lab Intern
+- company: Seoul National University<br/>
+            RUBIS(Real-time Ubiquitous System) Lab
   position: Intern
-  duration: Apr, 2020 &mdash; Present
+  duration: Apr, 2020 &mdash; Feb, 2021
   summary: I analyze autoware code and implenting code based on ROS.
           <ul class="resume-item-list">
             <li>Troubleshooting while running Autoware on TX2 Board</li>

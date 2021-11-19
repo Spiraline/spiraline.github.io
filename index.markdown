@@ -36,6 +36,7 @@ resume_section_skills:          true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/Spiraline"
+  resume_velog_url:             "https://velog.io/@spiraline"
   # resume_linkedin_url:          "LinkedIn"
   # resume_instagram_url:         "insert your Instagram URL here"
 resume_print_social_links:      true
