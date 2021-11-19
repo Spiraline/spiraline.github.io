@@ -3,7 +3,11 @@
   uni: Seoul National University
   year: 2021 &mdash; Present
   summary: "GPA : 4.3<br/>
-            Real-Time Ubiquitous System Lab"
+            Real-Time Ubiquitous System Lab
+            <ul>
+              <li>DAG scheduling algorithm</li>
+              <li>Safety Guarunteeing Mechanism against physical error</li>
+            </ul>"
 
 - degree: B.S. in Computer Science & Engineering
   uni: Seoul National University

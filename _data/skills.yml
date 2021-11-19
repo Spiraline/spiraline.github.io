@@ -1,10 +1,14 @@
 # System Programming
 - skill : Programming Language
-  description : C++ / Python
+  description : C / C++ / Python
 
 # ROS
 - skill: Real-time System
   description: ROS, Autoware
+
+# Embedded Board
+- skill: Embedded Board
+  description: Verilog, Xilinx
 
 # Web Development
 - skill: Web Development

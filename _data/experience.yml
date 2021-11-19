@@ -1,14 +1,10 @@
 # Jobs
 # RUBIS Lab
-- company: Seoul National University<br/>
-            RUBIS(Real-time Ubiquitous System) Lab
-  position: Master Degree
-  duration: Mar, 2020 &mdash; Present
-  summary: 
-          <ul class="resume-item-list">
-            <li>DAG scheduling algorithm</li>
-            <li>Safety Guarunteeing Mechanism against physical error</li>
-          </ul>
+- company: Seoul National University
+  position: Teaching Assistant
+  duration: Mar, 2021 &mdash; Jun, 2021
+  summary: TA for Logic Design class.<br/>
+            I teach Verilog and FPGA programming for 150 students.
 
 # RUBIS Lab Intern
 - company: Seoul National University<br/>
@@ -30,7 +26,7 @@
 # RideFlux
 - company: RideFlux
   position: Software Engineer
-  duration: Jan, 2019  &mdash; Feb, 2019 &bull; Jul, 2019  &mdash; Sep, 2019,
+  duration: Jan, 2019  &mdash; Feb, 2019 &bull; Jul, 2019  &mdash; Sep, 2019
   summary: I developed front-end using React and back-end using Django. And I implemented App using Unity.
             I also exprienced ROS to visualize ROS message on Visualizer.
            <ul class="resume-item-list">
