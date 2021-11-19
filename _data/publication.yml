@@ -1,15 +1,34 @@
 # Papers
 
+# 2021 KSC - HJJeon
+- title: "Combined Controller Model for Safe Autonomous Driving on Autoware"
+  author: Haejoo Jeon, <b>Jongwoo Han</b>, Seonghyeon Park, Chang-Gun Lee
+  year: 2021
+  conference: Korea Software Congress (KSC) 2021
+
+# 2020 KSC
+- title: "HSFS : Heterogeneous Superiority-First Scheduling for DAG Task"
+  author: <b>Jongwoo Han</b>, Seungsu Lee, Seonghyeon Park, Chang-Gun Lee
+  year: 2020
+  conference: Korea Software Congress (KSC) 2020
+  url: "/assets/KCC2020.pdf"
+
+# 2020 KSC - BKPark
+- title: "An overloaded task offloading method for self-driving practice in low performance embedded board"
+  author: Byungkyu Park, <b>Jongwoo Han</b>, Youngeun Cho, Chang-Gun Lee
+  year: 2020
+  conference: Korea Software Congress (KSC) 2020
+
+# 2020 KCC
+- title: A Precise module execution time measurement of ROS network
+  author: <b>Jongwoo Han</b>, Sehwan Lee, Seungsu Lee, Youngeun Cho, Chang-Gun Lee
+  year: 2020
+  conference: Korea Computer Congress (KCC) 2020
+  url: "/assets/KCC2020.pdf"
+
 # KICS - RFID
 - title: A Study of improving Anti-Collision algorithm for RFID system to identify RFID Tags
-  author: Jongwoo Han, Kiwoong Chung, HyunBae Lee, Insik Kim
+  author: <b>Jongwoo Han</b>, Kiwoong Chung, HyunBae Lee, Insik Kim
   year: 2015
   conference: Autumn Conference at KICS 2015
-  url: "#"
-
-# KCC - ROS
-- title: A Precise module execution time measurement of ROS network
-  author: Jongwoo Han, Sehwan Lee, Seungsu Lee, Youngeun Cho, Chang-Gun Lee
-  year: 2020
-  conference: Korea Computer Congress 2020
-  url: "/assets/KCC2020.pdf"
+  url: ""

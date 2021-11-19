@@ -1,14 +1,14 @@
 # System Programming
 - skill : Programming Language
-  description : C++ / python
+  description : C++ / Python
 
 # ROS
-- skill: Real-time system
+- skill: Real-time System
   description: ROS, Autoware
 
 # Web Development
 - skill: Web Development
-  description: Front-end development using React, Back-end development using Django
+  description: React, D3, Django
 
 # Android
 - skill : Android Development
@@ -16,4 +16,4 @@
 
 # Video Editing
 - skill: Video Editing
-  description: Motion Graphic using After Effect
+  description: Premier Pro, After Effect
