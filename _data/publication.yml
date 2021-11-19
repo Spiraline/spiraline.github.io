@@ -11,7 +11,7 @@
   author: <b>Jongwoo Han</b>, Seungsu Lee, Seonghyeon Park, Chang-Gun Lee
   year: 2020
   conference: Korea Software Congress (KSC) 2020
-  url: "/assets/KCC2020.pdf"
+  url: "/assets/KSC2020.pdf"
 
 # 2020 KSC - BKPark
 - title: "An overloaded task offloading method for self-driving practice in low performance embedded board"
@@ -31,4 +31,4 @@
   author: <b>Jongwoo Han</b>, Kiwoong Chung, HyunBae Lee, Insik Kim
   year: 2015
   conference: Autumn Conference at KICS 2015
-  url: ""
+  url: "/assets/KICS2015.pdf"
