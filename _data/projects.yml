@@ -1,3 +1,11 @@
+# InfoViz
+- project: Research-similiarity Community graph
+  role: Developer
+  duration: 2021
+  url: "https://github.com/Spiraline/research-similarity-community-graph"
+  description: Research-similiarity community graph based on affiliation<br/>
+                I experienced D3 and React.
+
 # LiveProfiler for NNStreamer
 - project: LiveProfiler for NNStreamer
   role: Developer
