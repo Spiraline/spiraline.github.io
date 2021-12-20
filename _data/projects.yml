@@ -1,3 +1,10 @@
+# Adv. OS
+- project: WAFSim
+  role: Developer
+  duration: 2021
+  url: "https://github.com/Spiraline/WAFSim"
+  description: FTL Simulator only for WAF
+
 # InfoViz
 - project: Research-similiarity Community graph
   role: Developer
