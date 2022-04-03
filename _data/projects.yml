@@ -1,9 +1,9 @@
 # Adv. OS
-- project: WAFSim
+- project: WASim
   role: Developer
   duration: 2021
-  url: "https://github.com/Spiraline/WAFSim"
-  description: FTL Simulator only for WAF
+  url: "https://github.com/Spiraline/WASim"
+  description: FTL Simulator only for WA
 
 # InfoViz
 - project: Research-similiarity Community graph
@@ -11,15 +11,16 @@
   duration: 2021
   url: "https://github.com/Spiraline/research-similarity-community-graph"
   description: Research-similiarity community graph based on affiliation<br/>
-                I experienced D3 and React.
+    I experienced D3 and React.
 
 # LiveProfiler for NNStreamer
 - project: LiveProfiler for NNStreamer
   role: Developer
   duration: 2020
   url: "https://github.com/cts-2019f-nnstreamer/gst-shark"
-  description: LiveProfiler visualizes performance of Neural Network pipeline during executing NNStreamer.<br/>
-                I experienced gst-shark and system profiling.
+  description:
+    LiveProfiler visualizes performance of Neural Network pipeline during executing NNStreamer.<br/>
+    I experienced gst-shark and system profiling.
 
 # Club4U
 - project: Club4U
@@ -27,4 +28,4 @@
   duration: 2019
   url: "https://github.com/swsnu/swpp2019-team13"
   description: Create and Join clubs in SNU<br/>
-              I experienced whole process of web development to implement this project.
+    I experienced whole process of web development to implement this project.

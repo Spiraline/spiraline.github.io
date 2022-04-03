@@ -1,10 +1,10 @@
-title: Spiralineeeeeeeeee
+title: Spiraline Blog
 email: spiraline@snu.ac.kr
-description: >- 
+description: >-
   Spiraline's Blog
 baseurl: ""
 url: "https://spiraline.github.io"
-github_username:  spiraline
+github_username: spiraline
 github_repo_url: "https://github.com/Spiraline"
 page_list: develop
 
