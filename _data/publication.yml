@@ -1,5 +1,19 @@
 # Papers
 
+# 2022 RTSS
+- title: "Improved Results for Guaranteeing Safety Despite Physical Errors in CPS’s"
+  author: <b>Jongwoo Han</b>, Chang-Gun Lee, Sanjoy Baruah
+  year: 2022
+  conference: 43rd IEEE Real-Time Systems Symposium (RTSS 2022)
+  url: ""
+
+# 2022 NAS
+- title: "LC-CB: Low Computational Victim Selection Policy in Garbage Collection"
+  author: <b>Jongwoo Han</b>, Haejoo Jeon, Dongmin Shin, Chang-Gun Lee
+  year: 2022
+  conference: 16th International Conference on Networking, Architecture, and Storage (NAS 2022)
+  url: ""
+
 # 2022 RTAS
 - title: "Guaranteeing Safety Despite Physical Errors in Cyber-Physical Systems"
   author: <b>Jongwoo Han</b>, Seonghyeon Park, Haejoo Jeon, Chang-Gun Lee
