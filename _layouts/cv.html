@@ -111,7 +111,9 @@ layout: default
           itemprop="url">[Ref]</a>{% endif %}</h3>
       <h4 class="resume-item-details" itemprop="description">{{ paper.author }}</h4>
       <h4 class="resume-item-details" itemprop="description">&bull; {{ paper.conference }}</h4>
-      {% if paper.others %}<h4 class="resume-item-details">&bull; {{ paper.others }}</h4>{% endif %}
+      {% for other in paper.others %}
+      <h4 class="resume-item-details">&bull; {{ other }}</h4>
+      {% endfor %}
     </div>
     {% endfor %}
 

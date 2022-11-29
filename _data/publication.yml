@@ -19,7 +19,9 @@
   author: <b>Jongwoo Han</b>, Seonghyeon Park, Haejoo Jeon, Chang-Gun Lee
   year: 2022
   conference: 2022 IEEE 28th Real-Time and Embedded Technology and Applications Symposium (RTAS)
-  others: 2022 Korea Computer Congress (KCC) Top Conference Session
+  others:
+    - 2022 Korea Computer Congress (KCC) Top Conference Session
+    - 2022 Qualcomm Innovation Fellowship Korea (QIFK) Finalist
   url: "https://ieeexplore.ieee.org/document/9804667"
 
 # 2021 KSC - HJJeon
