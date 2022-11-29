@@ -3,8 +3,8 @@
   description : C / C++ / Python
 
 # ROS
-- skill: Real-time System
-  description: ROS, Autoware
+- skill: Autonomous Driving
+  description: ROS, Autoware, SVL simulator, Carla simulator
 
 # Embedded Board
 - skill: Embedded Board
